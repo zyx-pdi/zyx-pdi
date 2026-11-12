@@ -1,6 +1,6 @@
 <!-- Personal GitHub profile for Ian Cedric Ramirez's company-facing account. -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Ian Cedric Ramirez — full-stack engineering and DevOps responsibilities at People Dynamics Inc., with a conceptual engineering workflow" width="100%" />
+  <img src="./assets/hero.png" alt="Ian Cedric Ramirez — full-stack engineering and DevOps responsibilities at People Dynamics Inc., with a conceptual engineering workflow" width="100%" />
 </p>
 
 <p align="center">
